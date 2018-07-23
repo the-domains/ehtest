@@ -1,0 +1,42 @@
+name: ehtest
+layout_spectrum: 0.49222327648183495
+typography_spectrum: 0.34144868578114396
+color:
+  brandColors:
+    - '#2F2933'
+    - '#01A2A6'
+    - '#29D9C2'
+    - '#BDF271'
+    - '#FFFFA6'
+  brandStrength: 0.718811338776269
+  lightness: 0.16229747909751402
+  saturation: 0.3079381240622736
+  rhythmicContrast: 0.901519919511645
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: '<img src="https://easyhire.me/images/landing/demonstration.jpg">'
+    src: 'https://easyhire.me/images/landing/demonstration.jpg'
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://easyhire.me'
+        name: Easyhire
+        favicon: null
+        domain: easyhire.me
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      isBasedOnUrl: 'https://easyhire.me/images/landing/demonstration.jpg'
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+github: true
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/ecfbd85d-60b0-443a-9f3c-0b533b85c473.svg
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/819bd19a-cad8-4ac7-aa8c-7911a36a8be8.svg
