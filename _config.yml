@@ -1,17 +1,17 @@
-name: ehtest
-layout_spectrum: 0.49222327648183495
-typography_spectrum: 0.34144868578114396
+layout_spectrum: 0.2794209214474195
+typography_spectrum: 0.7516662826286721
 color:
   brandColors:
-    - '#2F2933'
-    - '#01A2A6'
-    - '#29D9C2'
-    - '#BDF271'
-    - '#FFFFA6'
-  brandStrength: 0.718811338776269
-  lightness: 0.16229747909751402
-  saturation: 0.3079381240622736
-  rhythmicContrast: 0.901519919511645
+    - '#FFFFFF'
+    - '#000000'
+    - '#63422F'
+    - '#24AE4B'
+    - '#757A7F'
+  brandStrength: 0.4511611909416532
+  lightness: 0.6608908694559285
+  saturation: 0.2520743561539762
+  rhythmicContrast: 0.40339921099816145
+name: ehtest
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
